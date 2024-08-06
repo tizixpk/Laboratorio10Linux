@@ -1,5 +1,5 @@
 ### Pirez Tiziano 4to 4ta
-# Laboratorio 09 : Particiones de Disco Duro
+# Laboratorio 10 : Particiones de Disco Duro
 
 ## 1. ¿Qué es una partición de disco duro?
 Una partición de disco duro es una división lógica de un disco físico en secciones independientes que permiten al sistema operativo gestionar y organizar el espacio de almacenamiento de manera eficiente. Cada partición puede funcionar como un disco separado.
